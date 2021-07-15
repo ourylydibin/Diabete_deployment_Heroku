@@ -2,7 +2,7 @@
    A Machine learning application to predict whether or not a patient has diabetes.
    
 ## DISCLAIMER ⚠️
-This project is a POC(Proof of concept). This project presents just the idea that we can use ML into precision diabetes if developped at large scale with enough and authentic data. So don't use it for making diabetes decisions. 
+This project is a POC(Proof of concept). This project presents just the idea that how we can use ML into precision diabetes if developped at large scale with enough and authentic data. So don't use it for making diabetes decisions. 
 
 
 ## MOTIVATION 💪
