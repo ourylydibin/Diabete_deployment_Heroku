@@ -3,7 +3,7 @@
 
 ## MOTIVATION
 - Diabetes is one of the most common chronic health conditions faced by the world, specially western countries. 
-- Having insights and developping an applications on diabetes data can help many patients to combat the desease.   
+- Having insights and developping applications on diabetes data can help many patients to combat the desease.   
 - To contribute on sharing knowledge to the data science community. 
   
 
