@@ -53,7 +53,7 @@ You can use this project for further developing it and adding your work in it. I
 There are things to improve upon
 
 - CSS style is not in the CSS folder instead I have included the style in the html code. When I included the CSS in the CSS folder, it was not having effect on the application interface, I have faced this issue on many other projects :cry:
-- One can include a deep learning model in the model selection as one of the candidate.
+- One can include a deep learning model in the model selection as one of the candidates.
 - The application can be modularized.
 ## Contact 📞
 #### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/m-oury-ly-724960a9/)
