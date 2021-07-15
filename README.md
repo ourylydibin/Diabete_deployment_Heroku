@@ -1,9 +1,13 @@
 ### DESCRIPTION
    A Machine learning application to predict whether or not a patient has diabetes.
+   
+## DISCLAIMER ⚠️
+This project is a POC(Proof of concept). This project presents just the idea that we can use ML into precision diabetes if developped at large scale with enough and authentic data. So don't use it for making diabetes decisions. 
+
 
 ## MOTIVATION 💪
 - Diabetes is one of the most common chronic health conditions faced by the world, specially western countries. 
-- Having insights and developping applications on diabetes data can help many patients to combat the desease.   
+- Having insights and developping applications on diabetes data can help many patients to combat the desease if developped at large scale.   
 - To contribute on sharing knowledge to the data science community. 
   
 
