@@ -29,7 +29,7 @@ The data is source is here [UCI-Kaggle](https://www.kaggle.com/uciml/pima-indian
 #### Note: Making a query may take few secondes to load the data sometimes, as the server may be in hibernate state.
 
 ## How to use
-- In the application interface, type only positive values. If you type other than positive values you will be getting an error.
+- In the application interface, type only positive values.
 
 - Once you type the convenient values, click on the submit botton to get the result of the prediction.
   
