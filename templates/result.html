@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The result</title>
+    <style>
+        .div2{
+        padding: 2em;
+        font-family: Source Sans Pro;
+        font-weight: lighter;
+        position: absolute;
+        top: 30%;
+        left:50%;
+        transform: translateX(-50%) translateY(-50%);
+        }
+        .h1{
+        font-family: Source Sans Pro;
+        font-weight: lighter;
+        color: green;
+        font-size: 50px;
+        text-align: center;
+      }
+        .h2{
+        font-family: Source Sans Pro;
+        font-weight: lighter;
+        color: red;
+        font-size: 50px;
+        text-align: center;
+      }
+    </style>
+</head>
+<body>
+    <div class="div2">
+        {% if result==1 %}
+        <h3 class="h1">YES, You don't have Diabete !</h3>
+        {%elif result==0 %}
+        <h3 class="h2">Presence of Diabete </h3>
+        {%endif%}
+     </div>
+</body>
+</html>
