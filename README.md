@@ -1,5 +1,5 @@
 ### DESCRIPTION
-   A Machine learning application to predict whether or not a patien has diabete.
+   A Machine learning application to predict whether or not a patient has diabete.
 
 ## MOTIVATION
 - To gain experience in executing life-cycle of data science projects(data collection, feature engineering, feature selection, model selection, model hyper parameter tuning and model deployment).  
