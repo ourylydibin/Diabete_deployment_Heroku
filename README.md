@@ -15,8 +15,6 @@ The data is source is here [UCI-Kaggle](https://www.kaggle.com/uciml/pima-indian
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="50" src="https://symbols.getvecta.com/stencil_80/56_flask.3a79b5a056.jpg"></code>
 <code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/heroku-225989.png"></code>
-<code><img height="50" src="https://github.com/ourylydibin/Banknote-Authentication/blob/main/static/css/dockerr.jpg"></code>
-
 
 
 <code><img height="30" src="https://raw.githubusercontent.com/numpy/numpy/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg"></code>
