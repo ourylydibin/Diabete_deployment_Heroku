@@ -1,4 +1,4 @@
-### DESCRIPTION
+### DESCRIPTION   <code><img height="30" src="https://github.com/ourylydibin/Diabete_deployment_Heroku/blob/master/static/css/diab.jpg"></code>
    A Machine learning application to predict whether or not a patient has diabetes.
    
 ## DISCLAIMER ⚠️
