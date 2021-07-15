@@ -2,7 +2,8 @@
    A Machine learning application to predict whether or not a patient has diabetes.
 
 ## MOTIVATION
-- To gain experience in executing life-cycle of data science projects(data collection, feature engineering, feature selection, model selection, model hyper parameter tuning and model deployment).  
+- Diabetes is one of the most common chronic health conditions faced by the world, specially western countries. 
+- Having insights and developping an applications on diabetes data can help many patients to combat the desease.   
 - To contribute on sharing knowledge to the data science community. 
   
 
