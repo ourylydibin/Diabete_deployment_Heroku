@@ -1,9 +1,8 @@
 ### DESCRIPTION
-  - A Machine learning application to predict whether or not a banknote is authentic.
-  - The application was containerized with Docker container and deployed with Kubernetes Engine in Google Cloud Platform.
+   A Machine learning application to predict whether or not a patien has diabete.
 
 ## MOTIVATION
-- To gain experience in executing life-cycle of data science projects(data collection, feature engineering, feature selection, model selection, model hyper parameter tuning and model deployment). To also have knowledge of Google Cloud Platform.  
+- To gain experience in executing life-cycle of data science projects(data collection, feature engineering, feature selection, model selection, model hyper parameter tuning and model deployment).  
 - To contribute on sharing knowledge to the data science community. 
 -  I have seen many times fraudulent clients bringing unauthentic banknotes to buy merchandises from my father's shop. We always realized the banknotes was not authentic after the client was gone because we did not have the tool for a direct check of the banknote once the client gave the banknote. So these events have triggered my curiosity to build this kind a of application.  
 
@@ -44,7 +43,7 @@ The data is source is here [Kaggle](https://www.kaggle.com/ritesaluja/bank-note-
   
 ## DEMO
 
-   ### Banknote authentication
+   ### Diabetes Detection
 
 ![demo](https://media.giphy.com/media/kK1Y0WIc7UzYFDN9p2/giphy.gif)
 
