@@ -28,11 +28,6 @@ The data is source is here [UCI-Kaggle](https://www.kaggle.com/uciml/pima-indian
 #### You can access the application [here](https://diabeteprediction.herokuapp.com/).
 #### Note: Making a query may take few secondes to load the data sometimes, as the server may be in hibernate state.
 
-## CHALLENGES
-- The issue was that after installing docker it was not starting. After reading some Stackoverflow pages they were saying that I had to enable the virtual machine. Once I did that from the Bios it worked.
-- I had other issues when creating the Dockerfile. Docker could not build the docker image because I did not include the right base image in the file. It worked after I pulled the right image.
-- I had also problems with misunderstanding some docker and Kubernetes commands. But everything was solved after reading some blogs.   
-
 ## How to use
 - In the application bars, type only numerical values(positive of negative values). If you type other than numerical values you will be getting an error.
 
