@@ -52,3 +52,4 @@ There are somethings to improve upon
 - The application can be modularized.
 - 
 ## Contact
+#### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/m-oury-ly-724960a9/)
