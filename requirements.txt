@@ -1,0 +1,15 @@
+Flask==2.0.1
+gunicorn==20.1.0
+itsdangerous==2.0.1
+Jinja2==3.0.1
+MarkupSafe==2.0.1 
+Werkzeug==2.0.1
+scikit-learn>=0.19
+pandas>=0.19
+numpy>=1.9.2
+Flask-Cors==3.0.10
+joblib==1.0.1
+
+
+
+
