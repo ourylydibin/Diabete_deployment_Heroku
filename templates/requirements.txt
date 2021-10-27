@@ -14,7 +14,7 @@ colorama==0.4.4
 contextvars==2.4
 cycler==0.10.0
 Cython==0.29.17
-dask==2021.3.0
+dask==2021.10.0
 decorator==4.4.2
 defusedxml==0.7.1
 distributed==2021.3.0
