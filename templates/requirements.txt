@@ -59,7 +59,7 @@ nest-asyncio==1.5.1
 networkx==2.5.1
 nlp-primitives==1.1.0
 nltk==3.6.2
-notebook==6.4.0
+notebook==6.4.10
 numba==0.53.1
 numpy==1.19.5
 packaging==20.9
