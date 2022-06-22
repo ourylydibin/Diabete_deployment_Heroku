@@ -61,7 +61,7 @@ nlp-primitives==1.1.0
 nltk==3.6.2
 notebook==6.4.0
 numba==0.53.1
-numpy==1.19.5
+numpy==1.22.0
 packaging==20.9
 pandas==1.1.5
 pandocfilters==1.4.3
