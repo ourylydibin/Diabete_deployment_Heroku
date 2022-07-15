@@ -17,7 +17,7 @@ Cython==0.29.17
 dask==2021.3.0
 decorator==4.4.2
 defusedxml==0.7.1
-distributed==2021.3.0
+distributed==2021.10.0
 entrypoints==0.3
 evalml==0.24.1
 featuretools==0.23.3
