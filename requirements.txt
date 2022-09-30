@@ -8,7 +8,7 @@ scikit-learn>=0.19
 pandas>=0.19
 numpy>=1.9.2
 Flask-Cors==3.0.10
-joblib==1.0.1
+joblib==1.2.0
 
 
 
